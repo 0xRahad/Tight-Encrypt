@@ -19,6 +19,14 @@ public class MainActivity extends AppCompatActivity {
     EncryptionMain encryptionMain;
     HashMain hashMain;
 
+    /***
+     *
+     * This App Was Developed By Emperor Hacker's Community
+     * Developer - Md Rahadul Islam Rahad
+     * Stay Tuned With Emperor Hacker's Community
+     *
+     * ***/
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
